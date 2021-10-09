@@ -11,8 +11,13 @@ public class PageController {
         return "index";
     }
 
-    @GetMapping("/news")
+    @GetMapping("/about")
     public String news() {
-        return "news";
+        return "about";
+    }
+
+    @GetMapping("/contact")
+    public String contact() {
+        return "contact";
     }
 }
