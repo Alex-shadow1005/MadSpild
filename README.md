@@ -7,5 +7,7 @@ Afleveringgsdato 14 oktober 2021
 
 ## Contributors
 @Alex-shadow1005 - Alexander
+
 @martinlaursen97 - Martin
+
 @jakobmajiddd - Jakob
