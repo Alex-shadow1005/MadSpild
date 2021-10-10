@@ -12,7 +12,7 @@ public class PageController {
     }
 
     @GetMapping("/about")
-    public String news() {
+    public String about() {
         return "about";
     }
 
