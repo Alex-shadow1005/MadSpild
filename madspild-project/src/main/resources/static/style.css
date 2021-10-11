@@ -30,10 +30,10 @@ body{
     font-family: "Inter", serif;
     color: #666666;
     border: solid 3px #666666;
-    border-radius: 50px;
+    border-radius: 60px;
     position: relative;
-    top: -40px;
-    left: 80px;
+    top: -35px;
+    left: 40px;
     padding: 8px 56px;
 }
 
